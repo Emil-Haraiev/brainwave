@@ -4,6 +4,7 @@ import Hero from "./components/Hero.jsx";
 import Benefits from "./components/Benefits.jsx";
 import Collaboration from "./components/Collaboration.jsx";
 import Services from "./components/Services.jsx";
+import Pricing from "./components/Pricing.jsx";
 const App = () => {
 
   return (
@@ -14,6 +15,7 @@ const App = () => {
               <Benefits/>
               <Collaboration/>
               <Services/>
+              <Pricing/>
           </div>
           <ButtonGradient/>
       </>
