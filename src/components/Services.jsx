@@ -12,7 +12,7 @@ import {
 
 const Services = () => {
     return (
-        <Section id="how-to-us">
+        <Section id="how-to-use">
             <div className="container">
                 <Heading title="Generative AI made for creators."
                          text="Brainwave unlocks the potential of AI-powered applications"/>
