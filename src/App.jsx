@@ -5,6 +5,7 @@ import Benefits from "./components/Benefits.jsx";
 import Collaboration from "./components/Collaboration.jsx";
 import Services from "./components/Services.jsx";
 import Pricing from "./components/Pricing.jsx";
+import Roadmap from "./components/Roadmap.jsx";
 const App = () => {
 
   return (
@@ -16,6 +17,7 @@ const App = () => {
               <Collaboration/>
               <Services/>
               <Pricing/>
+              <Roadmap/>
           </div>
           <ButtonGradient/>
       </>
